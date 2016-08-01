@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated with glade 3.19.0 -->
+<!-- Generated with glade 3.20.0
+
+Copyright (C) Copyright © 2013 - 2016 Jente Hidskes <hjdskes@gmail.com>
+
+This file is part of Gcolor3.
+
+Gcolor3 is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Gcolor3 is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with Gcolor3.  If not, see <http://www.gnu.org/licenses/>.
+
+Author: Jente Hidskes
+
+-->
 <interface>
   <requires lib="gtk+" version="3.16"/>
+  <!-- interface-license-type lgplv3 -->
+  <!-- interface-name Gcolor3 -->
+  <!-- interface-description A simple color chooser dialog written in GTK3, much alike Gcolor2. -->
+  <!-- interface-copyright Copyright \302\251 2013 - 2016 Jente Hidskes <hjdskes@gmail.com> -->
+  <!-- interface-authors Jente Hidskes -->
   <object class="GtkImage" id="button_startup">
     <property name="visible">True</property>
     <property name="can_focus">False</property>
