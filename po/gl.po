@@ -19,16 +19,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Gtranslator 2.91.7\n"
 
-#: ../data/gcolor3.desktop.in.in.h:1 ../src/gcolor3-application.c:123
+#: ../data/org.hjdskes.gcolor3.desktop.in.in.h:1 ../src/gcolor3-application.c:123
 msgid "Color picker"
 msgstr "Selector de cor"
 
-#: ../data/gcolor3.desktop.in.in.h:2 ../src/gcolor3-application.c:61
+#: ../data/org.hjdskes.gcolor3.desktop.in.in.h:2 ../src/gcolor3-application.c:61
 msgid "Choose colors from the picker or the screen"
 msgstr "Escolla cores desde o selectro ou na pantalla"
 
 #. Extra keywords that can be used to search for Gcolor3 in GNOME Shell and Unity
-#: ../data/gcolor3.desktop.in.in.h:4
+#: ../data/org.hjdskes.gcolor3.desktop.in.in.h:4
 msgid "Color;Picker;Palette;"
 msgstr "Cor;Selector;Paleta;"
 
